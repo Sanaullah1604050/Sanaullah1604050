@@ -19,8 +19,9 @@ This is <b>A. R. SANA ULLAH</b>, a data science and machine learning enthusiast 
 <img src="https://img.shields.io/badge/Databases-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=MySQL&logoColor=#4479A1&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/Firebase-211e1b?style=for-the-badge&logo=Firebase&logoColor=#FFCA28&labelColor=211e1b)<br/>
 <img src="https://img.shields.io/badge/Cloud Platforms-8a2be2?style=for-the-badge&logo=Cloudflare&logoColor=FFFFFF">![badge-heroku](https://img.shields.io/badge/Heroku-211e1b?style=for-the-badge&logo=Heroku&logoColor=#430098&labelColor=211e1b)![Azure](https://img.shields.io/badge/azure-211e1b?style=for-the-badge&logo=microsoftazure&logoColor=#0078D4)
 
-
+<!--------------
 📈 My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanaullah1604050&show_icons=true&theme=gotham" alt="sana16" />
   
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanaullah1604050&theme=gotham"/>
+-------------->
