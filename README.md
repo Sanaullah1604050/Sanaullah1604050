@@ -1,5 +1,5 @@
 ### Hi there 👋👋
-This is <b>A. R. SANA ULLAH</b>, a data science and machine learning enthusiast from Bangladesh. I recently graduated with a Bachelors in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET). I have prior hands-on experience working with state-of-the-art machine learning and deep learning algorithms. I am also interested in Natural Language Processing (NLP) and Computer Vision.
+This is <b>A. R. SANA ULLAH</b>, a data science and machine learning enthusiast from Bangladesh. I have recently graduated with a Bachelors in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET). I have prior hands-on experience working with state-of-the-art machine learning and deep learning algorithms. I am also interested in Natural Language Processing (NLP) and Computer Vision.
 
 <h3 align="left">Connect me with:</h3>
 <a href="https://www.linkedin.com/in/a-r-sana-ullah-756738175/">
