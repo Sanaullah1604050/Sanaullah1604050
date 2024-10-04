@@ -23,8 +23,7 @@ This is <b>A. R. Sana Ullah</b>, an artificial intelligence and data science ent
 ![badge-opencv](https://img.shields.io/badge/OpenCV-211e1b?style=for-the-badge&logo=OpenCV&logoColor=#5C3EE8&labelColor=211e1b)<br/>
 <img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-react](https://img.shields.io/badge/React-211e1b?style=for-the-badge&logo=React&logoColor=#61DAFB&labelColor=211e1b)![badge-flask](https://img.shields.io/badge/Flask-211e1b?style=for-the-badge&logo=Flask&logoColor=#000000&labelColor=211e1b)<br/>
 <img src="https://img.shields.io/badge/Databases-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=MySQL&logoColor=#4479A1&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/Firebase-211e1b?style=for-the-badge&logo=Firebase&logoColor=#FFCA28&labelColor=211e1b)<br/>
-<img src="https://img.shields.io/badge/Cloud Platforms-8a2be2?style=for-the-badge&logo=Cloudflare&logoColor=FFFFFF">![badge-heroku](https://img.shields.io/badge/Heroku-211e1b?style=for-the-badge&logo=Heroku&logoColor=#430098&labelColor=211e1b)![Azure](https://img.shields.io/badge/azure-211e1b?style=for-the-badge&logo=microsoftazure&logoColor=#0078D4)
-
+<img src="https://img.shields.io/badge/Cloud Platforms-8a2be2?style=for-the-badge&logo=Cloudflare&logoColor=FFFFFF">![badge-heroku](https://img.shields.io/badge/Heroku-211e1b?style=for-the-badge&logo=Heroku&logoColor=#430098&labelColor=211e1b)![Azure](https://img.shields.io/badge/azure-211e1b?style=for-the-badge&logo=microsoftazure&logoColor=white)
 <!--------------
 📈 My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanaullah1604050&show_icons=true&theme=gotham" alt="sana16" />
