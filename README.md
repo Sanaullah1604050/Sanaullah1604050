@@ -1,5 +1,5 @@
 ### Hi there 👋👋
-This is <b>A. R. SANA ULLAH</b>, a data science and machine learning enthusiast from Bangladesh. I have recently graduated with a Bachelors in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET). I have prior hands-on experience working with state-of-the-art machine learning and deep learning algorithms. I am also interested in Natural Language Processing (NLP) and Computer Vision.
+This is <b>A. R. Sana Ullah</b>, an artificial intelligence and data science enthusiast from Montreal, Canada. I completed my Bachelor's in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) in Bangladesh. I am currently pursuing my Master's in Quality Systems Engineering at Concordia University, Canada, and working as a Graduate Research Assistant, where I conduct research on applying Graph Neural Networks to solve real-world problems. My research interests include machine learning, deep learning, and data science.
 
 <h3 align="left">Connect me with:</h3>
 <a href="https://www.linkedin.com/in/a-r-sana-ullah-756738175/">
